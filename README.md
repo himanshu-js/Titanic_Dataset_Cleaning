@@ -1,5 +1,5 @@
 
-🚢 ## Titanic Dataset Cleaning
+ ## 🚢  Titanic Dataset Cleaning
 
 ## Overview
 This project explores the famous Titanic dataset, analyzing passenger information to uncover the factors that influenced survival during the tragic sinking of the RMS Titanic in 1912. The goal of this analysis is to clean the raw data, perform exploratory data analysis (EDA), and extract meaningful insights. 
